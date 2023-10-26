@@ -1,6 +1,6 @@
 # Projeto ONE PIECE 
 
-### Projeto realizado no Curso DevQuest. Proposto é uma página responsiva  proposta pelos professores Roberto Dias e Ricardo Dias [(Dev em dobro)](https://www.instagram.com/devemdobro/) professores do curso DevQuest.
+### Projeto realizado no Curso DevQuest. Este projeto é uma página responsiva proposta pelos professores Roberto Dias e Ricardo Dias [(Dev em dobro)](https://www.instagram.com/devemdobro/) professores do curso DevQuest.
 
 ## Projeto  desktop 
 
