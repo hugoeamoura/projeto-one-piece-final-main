@@ -14,3 +14,4 @@
 
 - Javascript 
 ````
+Link da página: https://hugoeamoura.github.io/projeto-one-piece-final-main/
